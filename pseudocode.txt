@@ -1,0 +1,15 @@
+- display the current date within the jumbotrom at the top using moment js
+    - define a function that runs on page open
+
+- there will be 8 timeblocks for business hours with a save button, text area, and hour in the same row
+    - when you click the save button, the event is saved into local storage
+    - the saved events persist on page refresh
+
+- run a loop that checks each row for the assigned time, and if the timeblock is less than current time, change format/class for past, if current time, change format/class for current, if higher than current time, change format/class for future
+    - if timeblock < current time then class=past
+    - else if timeblock=current time then remove class pass, class=current
+    - else remove other classes, add future class
+        - making sure overnight it works right
+
+------3 functions? 1 for date, 1 for checking the time, 1 for local storage?------
+------------onclick event for storage--------------------------
