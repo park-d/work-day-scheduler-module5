@@ -18,7 +18,7 @@ When a user opens the page, they are presented with a simple hourly calendar for
 
 ## Credits
 
-While working on the Module-4 Challenge, I was in a study group with Jackson Myhre and Roy Logan from the same bootcamp class.
+While working on the Module-5 Challenge, I was in a study group with Jackson Myhre and Roy Logan from the same bootcamp class.
 
 Read a lot of documentation from jQuery and stack overflow, but used these mainly to understand logic and utilization of jQuery methods and keywords.
 - [.each jQuery Documentation](https://api.jquery.com/each/)
