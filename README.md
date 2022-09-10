@@ -21,9 +21,9 @@ When a user opens the page, they are presented with a simple hourly calendar for
 While working on the Module-4 Challenge, I was in a study group with Jackson Myhre and Roy Logan from the same bootcamp class.
 
 Read a lot of documentation from jQuery and stack overflow, but used these mainly to understand logic and utilization of jQuery methods and keywords.
-[.each jQuery Documentation](https://api.jquery.com/each/)
-[.click jQuery Documentation](https://api.jquery.com/click/)
-[.each Stack Overflow responses](https://stackoverflow.com/questions/8524613/using-for-loop-in-jquery)
+- [.each jQuery Documentation](https://api.jquery.com/each/)
+- [.click jQuery Documentation](https://api.jquery.com/click/)
+- [.each Stack Overflow responses](https://stackoverflow.com/questions/8524613/using-for-loop-in-jquery)
 
 ## License
 
